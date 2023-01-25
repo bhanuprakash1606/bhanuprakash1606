@@ -6,3 +6,7 @@
 </div>
 
 <br />
+
+<table><tr><td valign="top" width="50%">
+
+<h3 align="center">About me 📃</h3>

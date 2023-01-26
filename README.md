@@ -8,3 +8,4 @@
 <br />
 
 <h3 align="center">About me 📃</h3>
+* I'm  an Undergraduate in Computer Science Engineering at Indian Institute of Information Technology, Sri City.

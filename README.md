@@ -10,7 +10,7 @@
 <h3 align="center">About me 📃</h3>
 <ul>
  <li>Currently I'm working on projects in Full Stack Development, Python. Building up my resume and applying for summer internship opportunities.</li>
- <li>I'm  an Undergraduate in Computer Science Engineering 2021-25. Coursework: Computer Architecture, Object Oriented Programming, Operating Systems, Operational          Communication, Professional Communincation, Data Structures and Algorithms.</li>
+ <li>I'm  an Undergraduate in Computer Science Engineering 2021-25. Coursework: Computer Architecture, Object Oriented Programming, Operating Systems, Data Structures and Algorithms, Operational Communication, Professional Communincation.</li>
  <li>Right now I'm in Spring Semester-2023. Ongoing courses: Theory of Computation, Computer Networks, Artificial Intelligence, Fundamentals of Full Stack Development,      Quantum Information and Computing, Advanced Communication Skills.</li>
  <li>I'm a Web Developer and a Programmer. Interested in Data Science and Machine Learning fields.</li>
  <li>Passionate towards research and open source community. I love to contribute in these areas.</li>

@@ -31,4 +31,6 @@
 <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" />
 </div>
 
+<br/>
+ 
 <p style="text-align:center;">Connect with me on LinkedIn ✋</p>

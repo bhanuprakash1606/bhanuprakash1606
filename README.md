@@ -30,3 +30,5 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" />
 </div>
+
+<p style="text-align:center;">Connect with me on LinkedIn ✋</p>

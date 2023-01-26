@@ -33,4 +33,4 @@
 
 <br/>
  
-<p style="text-align:center;">Connect with me on LinkedIn ✋</p>
+<h6 align="center">Connect with me on LinkedIn ✋</h6>

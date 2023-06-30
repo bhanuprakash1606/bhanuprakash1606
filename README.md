@@ -8,7 +8,7 @@
 <br />
 
 <h3 align="center">About me 📃</h3>
-🎓 **Education**: Undergraduate in Computer Science and Engineering at Indian Institute of Information Technology Sri City, Chittoor
+🎓 Education: Undergraduate in Computer Science and Engineering at Indian Institute of Information Technology Sri City, Chittoor
 
 👩‍💻 **Skills**: Generative AI Fundamentals, MongoDB, jQuery, Express.js, Node.js, JavaScript, GitHub, Figma, Python, CSS, JDBC, HTML5, MySQL, C, Java
 

@@ -8,33 +8,24 @@
 <br />
 
 <h3 align="center">About me 📃</h3>
-<ul>
- <li>Currently I'm working on projects in Full Stack Development, Python. Building up my resume and applying for summer internship opportunities.</li>
- <li>I'm  an Undergraduate in Computer Science Engineering 2021-25. Coursework: Computer Architecture, Object Oriented Programming, Operating Systems, Data Structures and Algorithms, Operational Communication, Professional Communincation.</li>
- <li>Recently completed courses are as follows: Theory of Computation, Computer Networks, Artificial Intelligence, Fundamentals of Full Stack Development,      Quantum Information and Computing, Advanced Communication Skills.</li>
- <li>I'm a Web Developer and a Programmer. Interested in Data Science and Machine Learning fields.</li>
- <li>Passionate towards research and open source community. I love to contribute in these areas.</li>
-</ul>
+🎓 **Education**: Undergraduate in Computer Science and Engineering at Indian Institute of Information Technology Sri City, Chittoor
 
- <br />
- 
- <h4 align="center">Languages and Tools</h4>
+👩‍💻 **Skills**: Generative AI Fundamentals, MongoDB, jQuery, Express.js, Node.js, JavaScript, GitHub, Figma, Python, CSS, JDBC, HTML5, MySQL, C, Java
 
- <br />
-<div align="center">
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=" />
-<img src="https://img.shields.io/badge/-MySQL-inactive?style=for-the-badge&logo=MySQL" />
+✨ **Interests**: Full Stack Web Development, Machine Learning, Data Science
 
-</div>
+🌟 **Contributions**: Committed to contributing to open-source communities
 
-<br/>
- 
-<h6 align="center">Connect with me on LinkedIn ✋</h6>
+🌐 **Technical Expertise**: Python, Java, Web technologies and frameworks
+
+🚀 **Seeking**: Summer Internship Opportunities
+
+💼 **Description**: I am a proactive and dedicated undergraduate student pursuing Computer Science and Engineering. With a strong foundation in Full Stack Web Development and a deep interest in Machine Learning and Data Science, I am eager to contribute my skills and knowledge to impactful projects.
+
+💡 **Experience**: Completed Hacktoberfest Challenge, passionate about collaborative development
+
+📌 **Academic Focus**: Artificial Intelligence, Advanced Communication Skills, Full Stack Development, ChatGPT Prompt Engineering for Developers
+
+🤝 **Skills**: Problem-solving, Analytical thinking, Software development principles
+
+📧 **Contact**: If you know of any suitable internship opportunities or would like to connect to explore potential collaborations, please feel free to reach out. Let's make a difference together! ✨

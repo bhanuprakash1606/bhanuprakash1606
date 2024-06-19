@@ -29,3 +29,8 @@
 🤝 **Skills**: Problem-solving, Analytical thinking, Software development principles
 
 📧 **Contact**: If you know of any suitable internship opportunities or would like to connect to explore potential collaborations, please feel free to reach out. Let's make a difference together! ✨
+
+
+<a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2Fbhanuprakash1606">
+  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" />
+</a>
